@@ -2,7 +2,7 @@ import {lang, defineLanguage} from './script.js';
 import showWelcome from './time.js';
 import getQuotes from './quotes.js';
 
-let lastLang = 'ru';
+let lastLang = 'en';
 const weatherIcon = document.querySelector('.weather-icon');
 const temperature = document.querySelector('.temperature');
 const weatherDescription = document.querySelector('.weather-description');

@@ -1,6 +1,6 @@
 console.log("Примечание проверяющим: Сменя языка проложения происходит при вводе города, на соответствующем языке, в секции погода.");
 
-let lang = 'ru';
+let lang = 'en';
 
 import {city, lastLang} from './weather.js';
 import showWelcome from './time.js';
