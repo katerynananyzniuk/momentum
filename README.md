@@ -1,2 +1,2 @@
-# Momentum app
+# Momentum
 https://katerynananyzniuk.github.io/momentum/
