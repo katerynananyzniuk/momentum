@@ -1,2 +1,2 @@
-# stage1-tasks
+# Momentum app
 https://katerynananyzniuk.github.io/momentum/
